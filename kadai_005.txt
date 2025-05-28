@@ -4,6 +4,6 @@ git init
 
 git add .
 
-git commit -m "hello_world.txt"を追加
+git commit -m "hello_world.txtを追加"
 
 git commit -m "日本語訳を追記"
